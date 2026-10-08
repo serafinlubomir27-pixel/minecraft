@@ -44,7 +44,7 @@ Potrebujeme od vás:
 
 **Formát:** PDF z registeruz.sk / finstat.sk, fotky, CSV alebo hodnoty prepísané do tabuľky. Všetko v celých eurách.
 
-> ⚠️ **Overiť s vyučujúcim:** zadanie hovorí o firme z českého obchodného rejstříku (or.justice.cz). COOP Jednota Čadca je zapísaná v slovenskom ORSR (Okresný súd Žilina) a závierky má v registeruz.sk. Odporúčame potvrdiť, že slovenská firma je akceptovaná.
+> ✅ **Schválené vyučujúcou:** firmu možno vybrať zo slovenského ORSR (Okresný súd Žilina). Závierky sú v registeruz.sk, výkazy sú podľa slovenských štandardov (Úč POD).
 
 ---
 
